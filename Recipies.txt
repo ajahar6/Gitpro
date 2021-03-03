@@ -6,3 +6,4 @@ Rice
 Dal
 Meat
 Vegetables
+Chicken
